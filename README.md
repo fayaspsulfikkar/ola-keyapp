@@ -1,8 +1,8 @@
-# Ola S1 Pro BLE Protocol Companion & Analysis
+# Ola S1 Pro Companion App | Customisation, Protocol Analysis & Mod Insights
 
 An open-source Android application and reverse-engineering journey into the Bluetooth Low Energy (BLE) protocol of the **Ola S1 Pro (MoveOS 5.0.0)** electric scooter. 
 
-This repository documents the attempt to build a third-party companion app to read vehicle telemetry (Battery, Range, Odometer) and control the vehicle, ultimately culminating in the discovery of the scooter's highly secure AES-encrypted Challenge-Response protocol.
+This repository serves as a technical foundation for **Ola app customisation**, understanding the feasibility of an **Ola Mod APK**, and building third-party companion tools. It documents the attempt to build a third-party companion app to read vehicle telemetry (Battery, Range, Odometer) and control the vehicle, ultimately culminating in the discovery of the scooter's highly secure AES-encrypted Challenge-Response protocol.
 
 ---
 
@@ -73,3 +73,10 @@ Even though independent control is blocked by encryption, we built a fully funct
 4. Ensure Location and Bluetooth permissions are granted.
 
 *Note: This project is strictly for diagnostic and educational purposes. Always use the Official Ola Electric application to control your vehicle.*
+
+---
+
+## 🔍 SEO & Search Tags
+If you found this repository while searching for ways to hack, modify, or customize your Ola scooter, you are in the right place to understand the technical limitations of those goals. 
+
+**Keywords**: `Ola Mod APK`, `Ola Electric Customisation`, `Ola S1 Pro Hack`, `MoveOS 5.0.0 Mod`, `Ola Bluetooth Protocol`, `Ola Companion App Source Code`, `Ola S1 X Custom App`, `Reverse Engineering Ola Electric`, `Ola App Clone`, `Electric Scooter BLE Hack`.
